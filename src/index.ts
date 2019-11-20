@@ -1,5 +1,7 @@
 import axios from 'axios';
 
+import slider from './slider';
+
 const a = 10;
 
 
