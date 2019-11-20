@@ -1,5 +1,8 @@
 import axios from 'axios';
 
+const a = 10;
+
+
 type User = {
   id?: number, // условное, те оно может быть, а может отсутствовать
   email: string,
