@@ -3,6 +3,7 @@ import axios from 'axios';
 import slider from './slider';
 
 const a = 10;
+const b = 20;
 
 
 type User = {
