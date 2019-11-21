@@ -1,7 +1,7 @@
 function createSlider() {
-    const div = document.createElement('div');
+    const div1 = document.createElement('div');
     div.classList.add('slider');
-    return div;
+    return div1;
 }
 
 export default createSlider;
