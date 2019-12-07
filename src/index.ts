@@ -5,6 +5,8 @@ import slider from './slider';
 const a = 10;
 const b = 20;
 
+const c = a + 20;
+console.log(c)
 
 type User = {
   id?: number, // условное, те оно может быть, а может отсутствовать
